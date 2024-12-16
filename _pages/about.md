@@ -7,22 +7,31 @@ redirect_from:
   - /about.html
 ---
 
+Dr. Chengying Huan is a tenure-track Assistant Professor in the School of Computer Science at Nanjing University. He won two second runner ups in ACM-ICPC Asian regional contest and was an ACM-ICPC world finalist. His research focuses on Big Data computing systems, distributed AI training and inference systems, and intelligent data management systems. He has established a strong publication record in prestigious venues, including top-tier conferences and leading journals such as EuroSys, SC, ASPLOS, ICDE, IEEE Transactions on Parallel and Distributed Systems (TPDS), and ACM Transactions on Architecture and Code Optimization (TACO).
+He actively contributes to the academic community through his service on program committees and as a reviewer for prominent conferences and journals, including ICDE, SC, and TPDS. 
 
-
-A data-driven personal website
+Research
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My research interests include
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* [Big Data computing systems (Graph processing, ANNS, Matrix completion, etc)](#40)
+* [Distributed AI training and inference systems (LLM training, LLM inference, etc)](#40)
+* [Intelligent Data Management (Context cache, External memory algorithms, Near-Memory computing, etc)](#40)
 
 Getting started
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. **Chengying Huan**, Likang Chen, Yongchao Liu, Xuran Wang, Heng Zhang, Shaonan Ma, Yanjun Wu. TeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms. International Conference on Data Engineering **(ICDE 2025)**.
+1. **Chengying Huan**, Yongchao Liu, Heng Zhang, Shuaiwen Song, Santosh Pandey, Shiyang Chen, Xiangfei Fang, Yue Jin, Baptiste Lepers, Yanjun Wu, Hang Liu. TEA+: A Novel Temporal Graph Random Walk Engine with Hybrid Storage Architecture. ACM Transactions on Architecture and Code Optimization **(TACO)**, 2024.
+1. **Chengying Huan**, Yongchao Liu, Heng Zhang, Hang Liu, Shiyang Chen, Shuaiwen Leon Song, Yanjun Wu. TeGraph+: Scalable Temporal Graph Processing Enabling Flexible Edge Modifications. IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, 2024.
+1. Rui Zhang, Yukai Huang, Sicheng Liang, Shangyi Sun, Shaonan Ma, **Chengying Huan**, Lulu Chen, Zhihui Lu, Yang Xu, Ming Yan, Jie Wu.
+Revisiting Learned Index with Byte-addressable Persistent Storage. Proceedings of the 53rd International Conference on Parallel Processing **(ICPP 2023)**.
+1. Yue Jin, **Chengying Huan**, Heng Zhang, Yongchao Liu, Shuaiwen Leon Song, Rui Zhao, Yao Zhang, Changhua He, Wenguang Chen. G-Sparse: Compiler-Driven Acceleration for Generalized Sparse Computation for Graph Neural Networks on Modern GPUs. Proceedings of the International Conference on Parallel Architectures and Compilation Techniques **(PACT 2023)**.
+1. **Chengying Huan**, Shuaiwen Leon Song, Santosh Pandey, Hang Liu, Yongchao Liu, Baptiste Lepers, Changhua He, Kang Chen, Jinlei Jiang, Yongwei Wu. TEA: A General-Purpose Temporal Graph Random Walk Engine. Proceedings of the Eighteenth European Conference on Computer Systems **(EuroSys 2023)**.
+1. Shiyang Chen, Da Zheng, Caiwen Ding, **Chengying Huan**, Yuede Ji, Hang Liu. TANGO: re-thinking quantization for graph neural network training on GPUs. Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis **(SC 2023)**.
+1. **Chengying Huan**, Shuaiwen Leon Song, Yongchao Liu, Heng Zhang, Hang Liu, Charles He, Kang Chen, Jinlei Jiang, Yongwei Wu. T-GCN: A Sampling Based Streaming Graph Neural Network System with Hybrid Architecture. Proceedings of the International Conference on Parallel Architectures and Compilation Techniques **(PACT 2022)**.
+1. **Chengying Huan**, Hang Liu, Mengxing Liu, Yongchao Liu, Changhua He, Kang Chen, Jinlei Jiang, Yongwei Wu, Shuaiwen Leon Song. TeGraph: A Novel General-Purpose Temporal Graph Computing Engine. International Conference on Data Engineering **(ICDE 2022)**.
+1. Heng Zhang, Lingda Li, Hang Liu, Donglin Zhuang, Rui Liu, **Chengying Huan**, Shuang Song, Dingwen Tao, Yongchao Liu, Charles He, Yanjun Wu, Shuaiwen Leon Song. Bring orders into uncertainty: enabling efficient uncertain graph processing via novel path sampling on multi-accelerator systems. Proceedings of the 36th ACM International Conference on Supercomputing **(ICS 2022)**.
+1. Mingxing Zhang, Yongwei Wu, Youwei Zhuo, Xuehai Qian, **Chengying Huan**, Kang Chen. Wonderland: A Novel Abstraction-Based Out-Of-Core Graph Processing System. Proceedings of the Twenty-Third International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS 2018)**. 
 
 Site-wide configuration
 ------
