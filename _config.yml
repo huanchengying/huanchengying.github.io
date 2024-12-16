@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : https://scholar.google.com/citations?hl=zh-CN&user=8Dsw5EwAAAAJ
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=8Dsw5EwAAAAJ"
   impactstory      : # URL
-  orcid            : https://orcid.org/0000-0002-3154-3580
+  orcid            : "https://orcid.org/0000-0002-3154-3580"
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
@@ -73,7 +73,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-
+  wechat           : "huantwofat"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
