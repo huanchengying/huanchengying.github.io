@@ -24,11 +24,11 @@ author:
   avatar           : "main.png"
   name             : "Chengying Huan"
   pronouns         : # example: "she/her"  
-  bio              : "Tenure-Track Assistant Professor (特聘研究员/博士生导师) at Nanjing University"
+  bio              : "Tenure-Track Assistant Professor <br/> (特聘研究员/博士生导师)"
   location         : 
   employer         : "Nanjing University"
   uri              : # URL
-  email            : "huanzhizun888[at]126.com"
+  email            : "huanzhizun888@126.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
