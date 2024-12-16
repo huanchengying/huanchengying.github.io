@@ -55,5 +55,5 @@ Selected Honors and Awards
 1. China Collegiate Programming Contest, Gold Medal, 2016
 1. China Collegiate Computing Contest (C4) Group Programming Ladder Tournament, First Prize, 2016
 1. “Lanqiao Cup” National Software and Information Technology Professionals Competition (C/C Undergraduate A group) Beijing Regional, National first prize (Top 10), 2016
-1. Baidu Star World Final, Participation, 2016.
-1. National Scholarship, Undergraduate Student, 2014-2016.
+1. Baidu Star World Final, Participation, 2016
+1. National Scholarship, Undergraduate Student, 2014-2016
