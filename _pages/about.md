@@ -19,8 +19,8 @@ Professional Experiences
 
 Education
 ======
-* Ph.D. in Computer Science. Tsinghua University.
-* B.Eng. in Software Engineering. Beijing Institute of Technology.
+* Ph.D. in Computer Science. Tsinghua University, Sep 2017 - Jun 2022.
+* B.Eng. in Software Engineering. Beijing Institute of Technology, Sep 2013 - Jun 2017.
 
 Research Interest
 ======
