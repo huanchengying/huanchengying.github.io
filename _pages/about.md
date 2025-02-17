@@ -31,11 +31,11 @@ My research interests include:
 * [Intelligent Data Management (Context cache, External memory algorithms, Near-Memory computing, etc)](#40)
 
 
-Recent Publications (# Corresponding author)
+Recent Publications (# Corresponding Author)
 ======
 1. **Chengying Huan**, Likang Chen, Yongchao Liu, Xuran Wang, Heng Zhang, Shaonan Ma, Yanjun Wu. TeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms. International Conference on Data Engineering **(ICDE 2025)**.
 1. Pinhuan Wang, **Chengying Huan#**, Zhibing Wang, Chen Tian, Yuede Ji, Hang Liu. BINGO: Radix-based Bias Factorization for Random Walk on Dynamic Graphs. The 20th ACM European Conference on Computer Systems **(EuroSys 2025, Corresponding author)**.
-1. Xiangfei Fang, **Chengying Huan#**, Heng Zhang, Yongchao Liu, Shaonan Ma, Yanjun Wu, Chen Zhao. OTM: Efficient K-Order-Based Core Maintenance in Large-Scale Dynamic Hypergraphs **(ACM TKDD 2025, Corresponding author)**.
+1. Xiangfei Fang, **Chengying Huan#**, Heng Zhang, Yongchao Liu, Shaonan Ma, Yanjun Wu, Chen Zhao. OTM: Efficient K-Order-Based Core Maintenance in Large-Scale Dynamic Hypergraphs. ACM Transactions on Knowledge Discovery from Data **(ACM TKDD, Corresponding author)**, 2025.
 1. Xiangfei Fang, **Chengying Huan#**, Boying Wang, Shaonan Ma, Heng Zhang, Chen Zhao. HyperSF: A Hypergraph Representation Learning Method Based on Structural Fusion. IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2025, Corresponding author)**.
 1. Xiangfei Fang, Boying Wang, **Chengying Huan**, Shaonan Ma, Heng Zhang, Chen Zhao. HyperKAN: Hypergraph Representation Learning with Kolmogorov-Arnold Networks. IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2025)**.
 1. **Chengying Huan**, Yongchao Liu, Heng Zhang, Shuaiwen Song, Santosh Pandey, Shiyang Chen, Xiangfei Fang, Yue Jin, Baptiste Lepers, Yanjun Wu, Hang Liu. TEA+: A Novel Temporal Graph Random Walk Engine with Hybrid Storage Architecture. ACM Transactions on Architecture and Code Optimization **(ACM TACO)**, 2024.
