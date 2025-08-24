@@ -34,7 +34,8 @@ My research interests include:
 
 Recent Publications (# Corresponding Author)
 ======
-1. Yuhang Li, Rong Gu, **Chengying Huan**, Zhibin Wang, Renjie Yao, Chen Tian, Guihai Chen. HotPrefix: Hotness-Aware KV Cache Scheduling for Efficient Prefix Sharing in LLM Inference Systems. **(SIGMOD 2026)**.
+1.**Chengying Huan**, ZhengyiYang, Haoshen Yang, Yongchao Liu, Rong Gu, Guihai Chen, Chen Tian. Gem: Scalable Monotonic Graph Processing Beyond Billion-Scale on a Single Machine. ACM International Conference on Management of Data. (SIGMOD 2026) 
+1. Yuhang Li, Rong Gu, **Chengying Huan**, Zhibin Wang, Renjie Yao, Chen Tian, Guihai Chen. HotPrefix: Hotness-Aware KV Cache Scheduling for Efficient Prefix Sharing in LLM Inference Systems. ACM International Conference on Management of Data. **(SIGMOD 2026)**.
 1. **Chengying Huan**, Likang Chen, Yongchao Liu, Xuran Wang, Heng Zhang, Shaonan Ma, Yanjun Wu. TeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms. International Conference on Data Engineering **(ICDE 2025)**.
 1. Pinhuan Wang, **Chengying Huan#**, Zhibing Wang, Chen Tian, Yuede Ji, Hang Liu. BINGO: Radix-based Bias Factorization for Random Walk on Dynamic Graphs. The 20th ACM European Conference on Computer Systems **(EuroSys 2025, Corresponding author)**.
 1. Xiangfei Fang, **Chengying Huan#**, Heng Zhang, Yongchao Liu, Shaonan Ma, Yanjun Wu, Chen Zhao. OTM: Efficient K-Order-Based Core Maintenance in Large-Scale Dynamic Hypergraphs. ACM Transactions on Knowledge Discovery from Data **(ACM TKDD, Corresponding author)**, 2025.
