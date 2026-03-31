@@ -34,7 +34,8 @@ My research interests include:
 
 Recent Publications (* Corresponding Author)
 ======
-1. Zhibin Wang, Rui Ning, Chao Fang, Zhonghui Zhang, Xi Lin, Shaobo Ma, Mo Zhou, Xue Li, Zhongfeng Wang, **Chengying Huan**, Rong Gu, Kun Yang, Guihai Chen, Sheng Zhong and Chen Tian. CoDec: Prefix-Shared Decoding Kernel for LLMs. Proceedings of the ACM on Management of Data **(SIGMOD 2026)**.
+1. **Chengying Huan**, Ziheng Meng, Zhengyi Yang, Yongchao Liu, Jie Zhang, Qing Wang, Jing Wang, Shaonan Ma, Zhibin Wang, Mingxing Zhang, Rong Gu, Baokun Wang, Guihai Chen, Chen Tian. BCCE: Block-Centric GPU Co-Design for Real-Time Range-Top-K Query at Scale. ACM International Symposium on High-Performance Parallel and Distributed Computing **(HPDC 26)**.
+1. Zhibin Wang, Rui Ning, Chao Fang, Zhonghui Zhang, Xi Lin, Shaobo Ma, Mo Zhou, Xue Li, Zhongfeng Wang, **Chengying Huan**, Rong Gu, Kun Yang, Guihai Chen, Sheng Zhong, Chen Tian. CoDec: Prefix-Shared Decoding Kernel for LLMs. Proceedings of the ACM on Management of Data **(SIGMOD 2026)**.
 1. **Chengying Huan**, Renjie Yao, Rong Gu, Lizhen Chen, Zhengyi Yang, Shaonan Ma, Zhibin Wang, Mingxing Zhang, Fang Xi, Guihai Chen, Chen Tian. CMANNS: GPU-Accelerated Graph Index Construction for ANNS via Compute–Memory Disaggregation. Proceedings of the ACM on Management of Data **(SIGMOD 2026)**.
 1. **Chengying Huan**, ZhengyiYang, Haoshen Yang, Shaonan Ma, Yongchao Liu, Rong Gu, Fang Xi, Guihai Chen, Chen Tian. Gem: Scalable Monotonic Graph Processing Beyond Billion-Scale on a Single Machine. Proceedings of the ACM on Management of Data **(SIGMOD 2026)**.
 1. Yuhang Li, Rong Gu, **Chengying Huan**, Zhibin Wang, Renjie Yao, Chen Tian, Guihai Chen. HotPrefix: Hotness-Aware KV Cache Scheduling for Efficient Prefix Sharing in LLM Inference Systems. Proceedings of the ACM on Management of Data **(SIGMOD 2026)**.
