@@ -34,6 +34,7 @@ My research interests include:
 
 Recent Publications (* Corresponding Author)
 ======
+1. Zhibin Wang, Zetao Hong, Xue Li, Zibo Wang, Shipeng Li, Qingkai Meng, Qing Wang, **Chengying Huan**, Rong Gu, Sheng Zhong, Chen Tian. STAR: Decode-Phase Rescheduling for LLM Inference. ACM International Symposium on High-Performance Parallel and Distributed Computing **(HPDC 2026)**.
 1. **Chengying Huan**, Ziheng Meng, Zhengyi Yang, Yongchao Liu, Jie Zhang, Qing Wang, Jing Wang, Shaonan Ma, Zhibin Wang, Mingxing Zhang, Rong Gu, Baokun Wang, Guihai Chen, Chen Tian. BCCE: Block-Centric GPU Co-Design for Real-Time Range-Top-K Query at Scale. ACM International Symposium on High-Performance Parallel and Distributed Computing **(HPDC 2026)**.
 1. Zhibin Wang, Rui Ning, Chao Fang, Zhonghui Zhang, Xi Lin, Shaobo Ma, Mo Zhou, Xue Li, Zhongfeng Wang, **Chengying Huan**, Rong Gu, Kun Yang, Guihai Chen, Sheng Zhong, Chen Tian. CoDec: Prefix-Shared Decoding Kernel for LLMs. Proceedings of the ACM on Management of Data **(SIGMOD 2026)**.
 1. **Chengying Huan**, Renjie Yao, Rong Gu, Lizhen Chen, Zhengyi Yang, Shaonan Ma, Zhibin Wang, Mingxing Zhang, Fang Xi, Guihai Chen, Chen Tian. CMANNS: GPU-Accelerated Graph Index Construction for ANNS via Compute–Memory Disaggregation. Proceedings of the ACM on Management of Data **(SIGMOD 2026)**.
