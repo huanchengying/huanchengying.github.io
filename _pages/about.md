@@ -34,6 +34,9 @@ My research interests include:
 
 Recent Publications (* Corresponding Author)
 ======
+1. Jianqiang Zeng, Shaocong Sun, **Chengying Huan**, Peng Wang, Ke Zhou, Yingwei Luo, Xiaolin Wang, Zhenlin Wang, Diyu Zhou, Yingdi Shan, Jie Zhang. SplineFS: Adaptive Learned Directory Indexing for Memory-Constrained Filesystems. Proceedings of the ACM SIGOPS Annual Technical Conference **(ATC 2026)**.
+1. Li Wang, **Chengying Huan***, Zhengyi Yang, Yi Su, Pinhuan Wang, Xinyu Chen, Rong Gu, Zhibin Wang, Guihai Chen, Chen Tian. FenWalker: Towards FPGA Accelerated Dynamic Graph Random Walks on Massive Graphs. Proceedings of the ACM on Management of Data **(SIGMOD 2027)**.
+1. Lizheng Chen, Pinhuan Wang, Shaonan Ma, Jie Zhang, Qing Wang, Zhengyi Yang, Heng Zhang, Mingxing Zhang, Fan Yang, Guihai Chen, Chen Tian, **Chengying Huan***. Beyond Overlap: Hierarchical Graph Abstraction for Out-of-Core Vector Search. In Proceedings of European Conference on Computer Systems **(EuroSys 2027)**.
 1. Zhibin Wang, Zetao Hong, Xue Li, Zibo Wang, Shipeng Li, Qingkai Meng, Qing Wang, **Chengying Huan**, Rong Gu, Sheng Zhong, Chen Tian. STAR: Decode-Phase Rescheduling for LLM Inference. ACM International Symposium on High-Performance Parallel and Distributed Computing **(HPDC 2026)**.
 1. **Chengying Huan**, Ziheng Meng, Zhengyi Yang, Yongchao Liu, Jie Zhang, Qing Wang, Jing Wang, Shaonan Ma, Zhibin Wang, Mingxing Zhang, Rong Gu, Baokun Wang, Guihai Chen, Chen Tian. BCCE: Block-Centric GPU Co-Design for Real-Time Range-Top-K Query at Scale. ACM International Symposium on High-Performance Parallel and Distributed Computing **(HPDC 2026)**.
 1. Zhibin Wang, Rui Ning, Chao Fang, Zhonghui Zhang, Xi Lin, Shaobo Ma, Mo Zhou, Xue Li, Zhongfeng Wang, **Chengying Huan**, Rong Gu, Kun Yang, Guihai Chen, Sheng Zhong, Chen Tian. CoDec: Prefix-Shared Decoding Kernel for LLMs. Proceedings of the ACM on Management of Data **(SIGMOD 2026)**.
