@@ -34,6 +34,8 @@ My research interests include:
 
 Recent Publications (* Corresponding Author)
 ======
+1. Twig: Parallel and Memory-Efficient Tree Speculative Decoding for Hybrid-Attention LLMs. Li Wang, Yi Su, Xiabao Wu, Chiran You, Yongchao Liu, Zhan Qiu, Juelu Zhang, Jiajun Zheng, Fangxin Liu, Jie Zhang, Chen Tian, **Chengying Huan***. The 33rd IEEE International Symposium on High-Performance Computer Architecture **(HPCA 2027)**.
+1. Hardware/Software Co-Design for Efficient RPCs over Non-Cache-Coherent Shared CXL Memory. Hang Shen, Qing Wang, **Chengying Huan**, Zhibin Wang, Qiang Wang, Rong Gu, Wanchun Dou, Guihai Chen, Chen Tian. The 33rd IEEE International Symposium on High-Performance Computer Architecture **(HPCA 2027)**.
 1. Jianqiang Zeng, Shaocong Sun, **Chengying Huan**, Peng Wang, Ke Zhou, Yingwei Luo, Xiaolin Wang, Zhenlin Wang, Diyu Zhou, Yingdi Shan, Jie Zhang. SplineFS: Adaptive Learned Directory Indexing for Memory-Constrained Filesystems. Proceedings of the ACM SIGOPS Annual Technical Conference **(ATC 2026)**.
 1. Li Wang, **Chengying Huan***, Zhengyi Yang, Yi Su, Pinhuan Wang, Xinyu Chen, Rong Gu, Zhibin Wang, Guihai Chen, Chen Tian. FenWalker: Towards FPGA Accelerated Dynamic Graph Random Walks on Massive Graphs. Proceedings of the ACM on Management of Data **(SIGMOD 2027)**.
 1. Lizheng Chen, Pinhuan Wang, Shaonan Ma, Jie Zhang, Qing Wang, Zhengyi Yang, Heng Zhang, Mingxing Zhang, Fan Yang, Guihai Chen, Chen Tian, **Chengying Huan***. Beyond Overlap: Hierarchical Graph Abstraction for Out-of-Core Vector Search. In Proceedings of European Conference on Computer Systems **(EuroSys 2027)**.
